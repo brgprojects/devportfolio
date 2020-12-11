@@ -1,1 +1,4 @@
 /*Custom JavaScript*/
+$(function(){
+
+});
